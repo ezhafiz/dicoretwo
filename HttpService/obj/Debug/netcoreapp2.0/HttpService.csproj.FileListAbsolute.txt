@@ -1,0 +1,9 @@
+c:\users\ehafiz\source\repos\BrewdogApi\HttpService\bin\Debug\netcoreapp2.0\HttpService.deps.json
+c:\users\ehafiz\source\repos\BrewdogApi\HttpService\bin\Debug\netcoreapp2.0\HttpService.dll
+c:\users\ehafiz\source\repos\BrewdogApi\HttpService\obj\Debug\netcoreapp2.0\HttpService.csprojResolveAssemblyReference.cache
+c:\users\ehafiz\source\repos\BrewdogApi\HttpService\obj\Debug\netcoreapp2.0\HttpService.csproj.CoreCompileInputs.cache
+c:\users\ehafiz\source\repos\BrewdogApi\HttpService\obj\Debug\netcoreapp2.0\HttpService.AssemblyInfoInputs.cache
+c:\users\ehafiz\source\repos\BrewdogApi\HttpService\obj\Debug\netcoreapp2.0\HttpService.AssemblyInfo.cs
+c:\users\ehafiz\source\repos\BrewdogApi\HttpService\bin\Debug\netcoreapp2.0\HttpService.pdb
+c:\users\ehafiz\source\repos\BrewdogApi\HttpService\obj\Debug\netcoreapp2.0\HttpService.dll
+c:\users\ehafiz\source\repos\BrewdogApi\HttpService\obj\Debug\netcoreapp2.0\HttpService.pdb

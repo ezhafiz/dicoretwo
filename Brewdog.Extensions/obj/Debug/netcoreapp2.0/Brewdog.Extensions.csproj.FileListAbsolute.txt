@@ -1,0 +1,9 @@
+C:\Users\ehafiz\source\repos\BrewdogApi\Brewdog.Extensions\bin\Debug\netcoreapp2.0\Brewdog.Extensions.deps.json
+C:\Users\ehafiz\source\repos\BrewdogApi\Brewdog.Extensions\bin\Debug\netcoreapp2.0\Brewdog.Extensions.dll
+C:\Users\ehafiz\source\repos\BrewdogApi\Brewdog.Extensions\obj\Debug\netcoreapp2.0\Brewdog.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\ehafiz\source\repos\BrewdogApi\Brewdog.Extensions\obj\Debug\netcoreapp2.0\Brewdog.Extensions.AssemblyInfoInputs.cache
+C:\Users\ehafiz\source\repos\BrewdogApi\Brewdog.Extensions\obj\Debug\netcoreapp2.0\Brewdog.Extensions.AssemblyInfo.cs
+C:\Users\ehafiz\source\repos\BrewdogApi\Brewdog.Extensions\bin\Debug\netcoreapp2.0\Brewdog.Extensions.pdb
+C:\Users\ehafiz\source\repos\BrewdogApi\Brewdog.Extensions\obj\Debug\netcoreapp2.0\Brewdog.Extensions.csprojResolveAssemblyReference.cache
+C:\Users\ehafiz\source\repos\BrewdogApi\Brewdog.Extensions\obj\Debug\netcoreapp2.0\Brewdog.Extensions.dll
+C:\Users\ehafiz\source\repos\BrewdogApi\Brewdog.Extensions\obj\Debug\netcoreapp2.0\Brewdog.Extensions.pdb

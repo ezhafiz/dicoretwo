@@ -1,0 +1,11 @@
+C:\Users\ehafiz\source\repos\BrewdogApi\Brewdog.HtmlGenerator\bin\Debug\netcoreapp2.0\Brewdog.HtmlGenerator.deps.json
+C:\Users\ehafiz\source\repos\BrewdogApi\Brewdog.HtmlGenerator\bin\Debug\netcoreapp2.0\Brewdog.HtmlGenerator.dll
+C:\Users\ehafiz\source\repos\BrewdogApi\Brewdog.HtmlGenerator\obj\Debug\netcoreapp2.0\Brewdog.HtmlGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ehafiz\source\repos\BrewdogApi\Brewdog.HtmlGenerator\obj\Debug\netcoreapp2.0\Brewdog.HtmlGenerator.AssemblyInfoInputs.cache
+C:\Users\ehafiz\source\repos\BrewdogApi\Brewdog.HtmlGenerator\obj\Debug\netcoreapp2.0\Brewdog.HtmlGenerator.AssemblyInfo.cs
+C:\Users\ehafiz\source\repos\BrewdogApi\Brewdog.HtmlGenerator\bin\Debug\netcoreapp2.0\Brewdog.HtmlGenerator.pdb
+C:\Users\ehafiz\source\repos\BrewdogApi\Brewdog.HtmlGenerator\bin\Debug\netcoreapp2.0\Brewdog.Extensions.dll
+C:\Users\ehafiz\source\repos\BrewdogApi\Brewdog.HtmlGenerator\bin\Debug\netcoreapp2.0\Brewdog.Extensions.pdb
+C:\Users\ehafiz\source\repos\BrewdogApi\Brewdog.HtmlGenerator\obj\Debug\netcoreapp2.0\Brewdog.HtmlGenerator.csprojResolveAssemblyReference.cache
+C:\Users\ehafiz\source\repos\BrewdogApi\Brewdog.HtmlGenerator\obj\Debug\netcoreapp2.0\Brewdog.HtmlGenerator.dll
+C:\Users\ehafiz\source\repos\BrewdogApi\Brewdog.HtmlGenerator\obj\Debug\netcoreapp2.0\Brewdog.HtmlGenerator.pdb

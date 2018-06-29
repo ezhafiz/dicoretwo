@@ -1,0 +1,17 @@
+c:\users\ehafiz\source\repos\BrewdogApi\BrewdogApi\bin\Debug\netcoreapp2.0\BrewdogApi.deps.json
+c:\users\ehafiz\source\repos\BrewdogApi\BrewdogApi\bin\Debug\netcoreapp2.0\BrewdogApi.runtimeconfig.json
+c:\users\ehafiz\source\repos\BrewdogApi\BrewdogApi\bin\Debug\netcoreapp2.0\BrewdogApi.runtimeconfig.dev.json
+c:\users\ehafiz\source\repos\BrewdogApi\BrewdogApi\bin\Debug\netcoreapp2.0\BrewdogApi.dll
+c:\users\ehafiz\source\repos\BrewdogApi\BrewdogApi\obj\Debug\netcoreapp2.0\BrewdogApi.csproj.CoreCompileInputs.cache
+c:\users\ehafiz\source\repos\BrewdogApi\BrewdogApi\obj\Debug\netcoreapp2.0\BrewdogApi.AssemblyInfoInputs.cache
+c:\users\ehafiz\source\repos\BrewdogApi\BrewdogApi\obj\Debug\netcoreapp2.0\BrewdogApi.AssemblyInfo.cs
+c:\users\ehafiz\source\repos\BrewdogApi\BrewdogApi\bin\Debug\netcoreapp2.0\HttpService.dll
+c:\users\ehafiz\source\repos\BrewdogApi\BrewdogApi\obj\Debug\netcoreapp2.0\BrewdogApi.csprojResolveAssemblyReference.cache
+c:\users\ehafiz\source\repos\BrewdogApi\BrewdogApi\bin\Debug\netcoreapp2.0\BrewdogApi.pdb
+c:\users\ehafiz\source\repos\BrewdogApi\BrewdogApi\bin\Debug\netcoreapp2.0\HttpService.pdb
+c:\users\ehafiz\source\repos\BrewdogApi\BrewdogApi\obj\Debug\netcoreapp2.0\BrewdogApi.dll
+c:\users\ehafiz\source\repos\BrewdogApi\BrewdogApi\obj\Debug\netcoreapp2.0\BrewdogApi.pdb
+C:\Users\ehafiz\source\repos\BrewdogApi\BrewdogApi\bin\Debug\netcoreapp2.0\Brewdog.Extensions.dll
+C:\Users\ehafiz\source\repos\BrewdogApi\BrewdogApi\bin\Debug\netcoreapp2.0\Brewdog.Extensions.pdb
+C:\Users\ehafiz\source\repos\BrewdogApi\BrewdogApi\bin\Debug\netcoreapp2.0\Brewdog.HtmlGenerator.dll
+C:\Users\ehafiz\source\repos\BrewdogApi\BrewdogApi\bin\Debug\netcoreapp2.0\Brewdog.HtmlGenerator.pdb
